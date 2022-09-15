@@ -23,10 +23,24 @@ The main aim will be able to follow specifications to build simple programs in J
 3. **Interacting with APIs..** What the Geoff is JSON.parse, and what is GOT and what is the response? How do these callbacks work!?
   This step threw up some big blockers. I had to learn what callbacks were, to ensure that APIs were accessed and handled in order. I also had to get to grips with what JSON was providing (parses text into a data object). I managed to set up access to APIs of [GitHub](https://github.com/nickwlong/Learning-Javascript/blob/main/1.%20Test-driving%20JS/GitClient/githubApi.js) repositories, and for accessing [weather](https://github.com/nickwlong/Learning-Javascript/blob/main/1.%20Test-driving%20JS/WeatherApp/index.js) in certain locations. 
 
-  This led into exploring Express for handling routes in JavaScript -> the next logical step from handling APIs, in the hope that I can attempt the Chitter API challenge. I used a combination of the Makers express resources, and Codecademy's 'Learn Express Routes' course.
+  **This led into exploring Express for handling routes in JavaScript -> the next logical step from handling APIs, in the hope that I can attempt the Chitter API challenge. I used a combination of the Makers express resources, and Codecademy's 'Learn Express Routes' course.**
 
 4. **Build Javascript Web Apps**
+  To start building Javascript Web Apps I needed to learn how to create dynamic JavaScript that can update web pages, and how to test drive this. To do so, I learned how to use Jest-environment-JSDOM.
 
+  Wednesday - explored how to make clickable buttons that lead to changes on the page, using functions such as createElement to create new elements if necessary on a page. Spent some time pairing on APIs too.
+
+5. **Mid-week challenge**
+ ["Ten Minute Walk"](https://www.youtube.com/watch?v=ilXMqA8RsNE) was our mid-week challenge, where we were tasked with writing a function to check if some directions would allow us to finish where we started and that the walk would take exactly 10 minutes. I wanted to practice OOD so I decided to make a class with methods to complete the task.
+
+6. **APIs in Web Apps**
+  I have now come far enough through the web applications module to come against API calls again, it makes a lot more sense now that I have worked through APIs as a pair. Looking forward to using them to make interactive pages.
+
+7. **JS is asynchronous, the horror!**
+  Working with servers and accessing/storing data makes working with JS' asynchronous nature quite the challenge! I managed to get my head around the use of callbacks and created a functioning notes page which:
+  - Adds notes to the server
+  - Reads notes from the server and lists them on the page
+  The issue was testing! Running Jest with 'expect' statements wouldn't work after using the database, as they would run asynchronously. So I have explored async functions and the use of await. VERRY interesting. Tests are now working and I'm looking forward to the next challenge.
 ## Daily Goals
   
   
