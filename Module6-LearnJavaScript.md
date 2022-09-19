@@ -41,6 +41,14 @@ The main aim will be able to follow specifications to build simple programs in J
   - Adds notes to the server
   - Reads notes from the server and lists them on the page
   The issue was testing! Running Jest with 'expect' statements wouldn't work after using the database, as they would run asynchronously. So I have explored async functions and the use of await. VERRY interesting. Tests are now working and I'm looking forward to the next challenge.
+
+  In the afternoon, I worked in a pair to turn our thermostat app into an interactive page (see our work [here](https://github.com/MarcoDaz/thermostat))
+
+8. **End of Week Challenge: Chitter Front-End**
+  A brilliant challenge, details can be found [here:](https://github.com/nickwlong/frontend-api-challenge/tree/main)
+
+
+
 ## Daily Goals
   
   
