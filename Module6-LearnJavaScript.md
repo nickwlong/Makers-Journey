@@ -45,11 +45,7 @@ The main aim will be able to follow specifications to build simple programs in J
   In the afternoon, I worked in a pair to turn our thermostat app into an interactive page (see our work [here](https://github.com/MarcoDaz/thermostat))
 
 8. **End of Week Challenge: Chitter Front-End**
-  A brilliant challenge, details can be found [here:](https://github.com/nickwlong/frontend-api-challenge/tree/main)
-
-
-
-## Daily Goals
+  A brilliant challenge, details and my work can be found [here:](https://github.com/nickwlong/frontend-api-challenge/tree/main)
   
   
 ## Reflection

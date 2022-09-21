@@ -1,3 +1,5 @@
+## This is a work in progress, currently back-dating from Module 6!
+
 # Who I am and what is this all about?
 
 My name is Nick, I am a Software Engineer Apprentice working for OVO Energy. This diary is a log of my journey through the first 12 weeks of my apprenticeship, where I will be completing the Makers Academy Bootcamp. Each week I will be sharing my learning objectives, my personal goals, evidence of their completion, and some reflections.
