@@ -18,45 +18,14 @@ This module was focussed on learning how to do each of these things.
 4. Learn to build software as a pair.**✓**
 5. Learn to explain why test-driving, object-oriented design, debugging, and pairing are powerful practices for software engineers. **✓**
 
-
-#### Plans to achieve:
-1. 
-
 #### Evidence:
-1. 
-- **Challenge...** [here](https://github.com/DanGyi23/boris_bike_challenge)
-- **Bonus project...**  [here](https://github.com/DanGyi23/roman-numerals-tdd/tree/master)
+1. To begin with, I worked on a bunch of different challenges and processes that involved testing. These were built with OOD and TDD in mind, with paired programming in the afternoon of each day. To explore some of these projects see here: 
 
+2. Late in the first week, I wanted to face a challenge and decided to build a naughts and crosses terminal game in a pair-programming session. To see the code, go [here](https://github.com/nickwlong/noughts_and_crosses)
 
-4. 
-  - **Google form responses** recorded [here](https://docs.google.com/forms/d/10kmlfy_Go23UbPTm0msa-49QmrUcIy-q6DnFEAsL8qQ/edit#responses)
-  - Completed repo for [**Boris Bikes challenge**](https://github.com/DanGyi23/boris-bikes2) with contributors, forked and updated.
-
-  - **Password Manager v2.0** recorded [part-one](https://youtu.be/EW59cUkOgd8) and [part-two](https://youtu.be/IwOcLh1r8h8) showing my coding process during week 1.
-
-## Daily Goals
-  
-  
-## Reflection
-
-
-### Question 1
-
-*Did you meet all of your goals to the standard you set at the start of the week?*
-
-
-- Yes, I feel far more confident with OOP particularly, which was an area of weakness I focused on to address. 
-
-
-
-### Question 2
-
-*What would you change/improve moving forward?*
-
-
-**Technical:**
-- I'd love to improve my understanding of more Ruby syntax, in order to write code quicker
-
-
-**Personal:**
-- I'd be stricter with timekeeping and taking breaks
+3. Using what I had learned from the pair work, I then developed a [Takeaway](https://github.com/nickwlong/TakeawayProject) delivery system. These included various features such as:
+* A terminal-based UI
+* A menu viewer
+* An active basket to store a customer's orders
+* A 'receipt' system that shows a customer's orders and their total price to pay.
+* An email is sent to the customer upon placing an order, notifying them of their expected delivery time (using Twilio Ruby)

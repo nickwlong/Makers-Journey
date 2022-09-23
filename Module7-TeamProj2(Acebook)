@@ -18,7 +18,7 @@ The main aim will be able to follow specifications to build simple programs in J
 3. To work with others via pair programming to refactor my code
 
 #### Evidence:
-1. **Day One** WHAAT?! Where do we start? We were shown some existing code for an "Acebook" app, using technologies including:
+1. **Week One** WHAAT?! Where do we start? We were shown some existing code for an "Acebook" app, using technologies including:
 * JavaScript
 * React
 * MongoDB
@@ -28,7 +28,14 @@ The main aim will be able to follow specifications to build simple programs in J
 * Cypress
 * JWT 
 
-I had used JavaScript and Express
+I had used JavaScript and Express a little previously, but no Mongo or React, and I had no idea what a token represented. However, we started the first day by setting a goal of deciding how we would work as a team and set out to find out the basic structure of the files etc.
+
+Initially, the codebase had features to allow signup, log in, and view posts. However, we didn't have any test posts to view nor a feature to implement. So I found a way to insert many test posts, and we had our first feed of posts visible!
+
+By using our trello board, stand-up meetings, and coding in pairs/threes, we implemented some basic features in the first week. For example, reverse-chronological sorting of posts, styling posts as 'cards', and adding the 'date-posted' to each post. We hit a significant blocker when trying to linking tables of data together using MongoDB, where we had a little support from our coach. Here we were then able to access the 'post' data and link each post to a 'user' using the populate feature of Mongoose.
+
+On Friday, we had a retrospective meeting, planning to apply more Agile methodologies to our workflow in the following week.
+
 
   
 ## Reflection
