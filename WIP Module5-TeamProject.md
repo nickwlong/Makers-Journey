@@ -1,4 +1,4 @@
-# Week 1+2 - Basic Programming in Ruby
+# Week 7 - Building AirBnB clone with Ruby
 
 ## Weekly Goals
 
@@ -11,7 +11,4 @@
 
 
 #### Evidence:
-1. 
-- **Challenge...** [here](https://github.com/DanGyi23/boris_bike_challenge)
-- **Bonus project...**  [here](https://github.com/DanGyi23/roman-numerals-tdd/tree/master)
-
+https://github.com/BorisYTTsang/cherimoyabnb
