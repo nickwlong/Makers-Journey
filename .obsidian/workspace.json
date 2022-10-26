@@ -1,0 +1,141 @@
+{
+  "main": {
+    "id": "29c54decec7af70f",
+    "type": "split",
+    "children": [
+      {
+        "id": "9aed6826c14fde52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d135ac8ddc59ab3a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2084e1a7969602b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "c10fa02c5c2af1dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "940d6fe30ea632a0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fbc5ffed6f12dea6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e9f1fae8823baa3b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4116ea89180a2d72",
+    "type": "split",
+    "children": [
+      {
+        "id": "12eefd165aa1a1d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "933f87bb54a2882f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ee0c77654b26e163",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f4f3b9f5f34e1c6e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1b76210c0dd30f9e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "d135ac8ddc59ab3a",
+  "lastOpenFiles": [
+    "Placement/Week1-Introductions.md",
+    "MakersBootcamp/Module7-TeamProj2(Acebook).md",
+    "Placement/Week2.md",
+    "ReadMe.md"
+  ]
+}

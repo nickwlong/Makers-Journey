@@ -2,9 +2,9 @@
 
 # Who I am and what is this all about?
 
-My name is Nick, I am a Software Engineer Apprentice working for OVO Energy. This diary is a log of my journey through the first 12 weeks of my apprenticeship, where I will be completing the Makers Academy Bootcamp. Each week I will be sharing my learning objectives, my personal goals, evidence of their completion, and some reflections.
+My name is Nick, I am a Software Engineer Apprentice working for OVO Energy. This diary is a log of my journey through the first 12 weeks of my apprenticeship where I will be completing the Makers Academy Bootcamp, and the future months on placement. Each week I will be sharing my learning objectives, my personal goals, evidence of their completion, and some reflections.
 
-I am not sure which field of the OVO tech team I will be working in, but I hope to gain a range of experiences in my time here. OVO has a big focus on forward-thinking tech use, shown by their tech [blog](https://tech.ovoenergy.com/) and range of [technologies](https://techradar.ovotech.org.uk/) in use.
+I am working for the 3rd-Party Integrations team in OVO, work on a range of interesting (largely backend) projects. OVO has a big focus on forward-thinking tech use, shown by their tech [blog](https://tech.ovoenergy.com/) and range of [technologies](https://techradar.ovotech.org.uk/) in use.
 
 ## Why Software Engineering?
 
