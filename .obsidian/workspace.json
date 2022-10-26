@@ -11,8 +11,12 @@
             "id": "d135ac8ddc59ab3a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Placement/Introduction to my Placement Diary.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Placement/Introduction to my Placement Diary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Placement/Introduction to my Placement Diary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Placement/Introduction to my Placement Diary.md"
+              }
             }
           }
         ]
@@ -134,6 +142,7 @@
   "active": "d135ac8ddc59ab3a",
   "lastOpenFiles": [
     "Placement/Week1-Introductions.md",
+    "Placement/Introduction to my Placement Diary.md",
     "MakersBootcamp/Module7-TeamProj2(Acebook).md",
     "Placement/Week2.md",
     "ReadMe.md"
