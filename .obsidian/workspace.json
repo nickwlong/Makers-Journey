@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Placement/Introduction to my Placement Diary.md",
+                "file": "Placement/Week1-Introductions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3b06834511d26ae3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Placement/Week2-TheFirstTicket.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca949d125d567f86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Placement/Week3.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Placement/Introduction to my Placement Diary.md",
+                "file": "Placement/Week3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Placement/Introduction to my Placement Diary.md",
+                "file": "Placement/Week3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Placement/Introduction to my Placement Diary.md"
+                "file": "Placement/Week3.md"
               }
             }
           }
@@ -136,15 +161,13 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "d135ac8ddc59ab3a",
+  "active": "ca949d125d567f86",
   "lastOpenFiles": [
+    "Placement/Week2-TheFirstTicket.md",
+    "Placement/Week3.md",
     "Placement/Week1-Introductions.md",
     "Placement/Introduction to my Placement Diary.md",
     "MakersBootcamp/Module7-TeamProj2(Acebook).md",
-    "Placement/Week2.md",
     "ReadMe.md"
   ]
 }
