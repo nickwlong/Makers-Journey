@@ -18,6 +18,8 @@ Through this feedback I explored:
 
 ## Day Two:
 
+With more incidents to handle, I had more time to refactor my existing ticket work, and to do some self-directed learning. In this, I worked on jest mocks a little, and then focussed on building my understanding of promises some more as per my weekly research goal. 
+
 ## Day Three:
 
 ## Day Four:
